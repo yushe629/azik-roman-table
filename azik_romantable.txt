@@ -164,6 +164,7 @@ ja	じゃ
 ju	じゅ
 je	じぇ
 jo	じょ
+ji	じ
 
 bya	びゃ
 byu	びゅ
